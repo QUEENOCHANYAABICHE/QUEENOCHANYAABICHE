@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QUEENOCHANYAABICHE
+
 <h1 align="center">Hi 👋, I'm QUEEN OCHANYA ABICHE</h1>
 <h3 align="center">A passionate software engineer from Nigeria.</h3>
 
